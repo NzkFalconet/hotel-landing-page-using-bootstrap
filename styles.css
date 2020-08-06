@@ -3,6 +3,7 @@
 
 html,body{
     text-transform: uppercase;
+     overflow-x: hidden;
 
 }
 /* .cover{
