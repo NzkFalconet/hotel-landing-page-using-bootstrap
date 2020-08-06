@@ -199,3 +199,15 @@ html,body{
         font-size:110% ;
     }
 }
+@media only screen and (max-width:420px)
+{
+    .carousel-caption .btn{
+        margin-bottom: 10px;
+    }
+    .carousel-caption h2{
+        font-size:125%;
+    }
+    .carousel-caption{
+        top: 45;
+    }
+}
